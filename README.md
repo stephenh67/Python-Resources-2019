@@ -318,6 +318,8 @@ https://www.jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit
 
 * [_w3schools Python Tutorial_](https://www.w3schools.com/python/default.asp) Clear and concise.
 
+* [_Programiz_PRO](https://programiz.pro/) Programiz PRO offers a free 7 day trial, and provides learning path with interactive courses, challenge courses, and interview preparation courses.
+
 * [_Programiz_](https://www.programiz.com/python-programming) Learn Python Programming: The Definitive Guide
 
 * [_Python for Everybody_](https://www.py4e.com/) A full Python course.
